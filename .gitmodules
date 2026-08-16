@@ -1,0 +1,6 @@
+[submodule "gpt-oauth"]
+	path = gpt-oauth
+	url = ./gpt-oauth
+[submodule "minimal-standard-preset"]
+	path = minimal-standard-preset
+	url = ./minimal-standard-preset
