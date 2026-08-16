@@ -1,6 +1,6 @@
 [submodule "gpt-oauth"]
 	path = gpt-oauth
-	url = ./gpt-oauth
+	url = https://github.com/JinxiangW/gpt-oauth.git
 [submodule "minimal-standard-preset"]
 	path = minimal-standard-preset
-	url = ./minimal-standard-preset
+	url = https://github.com/JinxiangW/minimal-standard-preset.git
